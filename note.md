@@ -1,5 +1,5 @@
 # SQL
-    > a note of all related sql implementation.
+  a note of all related sql implementation
 
 ## Introduction
-    > look at [introduction.sql](./introduction.sql)
+   look at [pg_intro.sql](./pg_intro.sql)
